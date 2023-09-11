@@ -1,0 +1,22 @@
+/*sintaxe css*/
+
+/*seletor{
+    atributo/propiedade: valor;
+}*/
+
+h1 {
+    color: red;
+    font-size: 50px;
+}
+
+h2 {
+    color:blue;
+}
+
+p {
+    color: darkgreen;
+}
+
+li {
+    color: saddlebrown;
+}
